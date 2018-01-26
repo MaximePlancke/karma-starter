@@ -1,0 +1,27 @@
+{
+  "name": "karma-starter",
+  "version": "1.0.0",
+  "description": "Starter for Karma test runner with Mocha, Chai and Webpack",
+  "main": "n/a",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [],
+  "author": "Steve Holgado",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "karma": "^2.0.0",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-mocha": "^1.3.0",
+    "karma-mocha-reporter": "^2.2.5",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "karma-webpack": "^2.0.9",
+    "mocha": "^5.0.0",
+    "webpack": "^3.10.0"
+  }
+}
